@@ -1,1 +1,1 @@
-# my-first-program
+# my_first_program
