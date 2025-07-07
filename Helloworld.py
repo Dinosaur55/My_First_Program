@@ -10,7 +10,8 @@ msg="Helloworld, I am Dinosaur55"
 print(msg)
 
 # Generate a random number between 1 and 8
-print(np.random.randint(1,9))
+random_num = np.random.randint(1,9)
+print(f"a random number between 1 and 8 reads: {random_num}")
 
 # Generate a vector [1,2,3,4,5]
 v = np.array([1,2,3,4,5])
