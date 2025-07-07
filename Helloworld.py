@@ -46,6 +46,7 @@ plt.title('Sine Wave')
 plt.xlabel('x')
 plt.ylabel('sin(x)')
 plt.legend()
+plt.show()
 
 # End timing and print total time
 end_time = time.time()
